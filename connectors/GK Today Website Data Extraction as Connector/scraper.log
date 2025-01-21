@@ -1,0 +1,462 @@
+2025-01-09 11:13:13,702 - INFO - Database checked/created.
+2025-01-09 11:13:13,704 - INFO - Connected to database and ensured table exists.
+2025-01-09 11:13:13,705 - INFO - Scraping page 1: https://www.gktoday.in/category/current-affairs/
+2025-01-09 11:13:13,710 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:13,856 - DEBUG - https://www.gktoday.in:443 "GET /category/current-affairs/ HTTP/1.1" 301 None
+2025-01-09 11:13:13,946 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/ HTTP/1.1" 200 None
+2025-01-09 11:13:13,978 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:14,156 - DEBUG - https://www.gktoday.in:443 "GET /tremors-shake-tibet-a-seismic-overview/ HTTP/1.1" 200 None
+2025-01-09 11:13:14,185 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:14,253 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/7.1-Magnitude-Earthquake-Hits-Tibet-1736315474-1.jpg HTTP/1.1" 200 27581
+2025-01-09 11:13:14,290 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:14,477 - DEBUG - https://www.gktoday.in:443 "GET /jharkhands-maiya-samman-yojana-initiative/ HTTP/1.1" 200 None
+2025-01-09 11:13:14,508 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:14,578 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Jharkhands-Maiya-Samman-Yojana-Initiative-1736315265-1.jpg HTTP/1.1" 200 40743
+2025-01-09 11:13:14,587 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:14,731 - DEBUG - https://www.gktoday.in:443 "GET /asias-largest-shallow-wave-basin-unveiled/ HTTP/1.1" 200 None
+2025-01-09 11:13:14,759 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:14,824 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/IIT-Madras-Inaugurates-Asias-Largest-Shallow-Wave-Basin-Research-Facility-1736314690.webp HTTP/1.1" 200 91664
+2025-01-09 11:13:14,831 - DEBUG - Importing BlpImagePlugin
+2025-01-09 11:13:14,834 - DEBUG - Importing BmpImagePlugin
+2025-01-09 11:13:14,835 - DEBUG - Importing BufrStubImagePlugin
+2025-01-09 11:13:14,837 - DEBUG - Importing CurImagePlugin
+2025-01-09 11:13:14,839 - DEBUG - Importing DcxImagePlugin
+2025-01-09 11:13:14,843 - DEBUG - Importing DdsImagePlugin
+2025-01-09 11:13:14,846 - DEBUG - Importing EpsImagePlugin
+2025-01-09 11:13:14,899 - DEBUG - Importing FitsImagePlugin
+2025-01-09 11:13:14,900 - DEBUG - Importing FitsStubImagePlugin
+2025-01-09 11:13:14,902 - DEBUG - Importing FliImagePlugin
+2025-01-09 11:13:14,903 - DEBUG - Importing FpxImagePlugin
+2025-01-09 11:13:14,906 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-01-09 11:13:14,907 - DEBUG - Importing FtexImagePlugin
+2025-01-09 11:13:14,908 - DEBUG - Importing GbrImagePlugin
+2025-01-09 11:13:14,911 - DEBUG - Importing GifImagePlugin
+2025-01-09 11:13:14,911 - DEBUG - Importing GribStubImagePlugin
+2025-01-09 11:13:14,912 - DEBUG - Importing Hdf5StubImagePlugin
+2025-01-09 11:13:14,914 - DEBUG - Importing IcnsImagePlugin
+2025-01-09 11:13:14,918 - DEBUG - Importing IcoImagePlugin
+2025-01-09 11:13:14,920 - DEBUG - Importing ImImagePlugin
+2025-01-09 11:13:14,922 - DEBUG - Importing ImtImagePlugin
+2025-01-09 11:13:14,924 - DEBUG - Importing IptcImagePlugin
+2025-01-09 11:13:14,926 - DEBUG - Importing JpegImagePlugin
+2025-01-09 11:13:14,926 - DEBUG - Importing Jpeg2KImagePlugin
+2025-01-09 11:13:14,926 - DEBUG - Importing McIdasImagePlugin
+2025-01-09 11:13:14,960 - DEBUG - Importing MicImagePlugin
+2025-01-09 11:13:14,976 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-01-09 11:13:14,976 - DEBUG - Importing MpegImagePlugin
+2025-01-09 11:13:14,980 - DEBUG - Importing MpoImagePlugin
+2025-01-09 11:13:14,981 - DEBUG - Importing MspImagePlugin
+2025-01-09 11:13:14,982 - DEBUG - Importing PalmImagePlugin
+2025-01-09 11:13:14,984 - DEBUG - Importing PcdImagePlugin
+2025-01-09 11:13:14,986 - DEBUG - Importing PcxImagePlugin
+2025-01-09 11:13:14,986 - DEBUG - Importing PdfImagePlugin
+2025-01-09 11:13:14,996 - DEBUG - Importing PixarImagePlugin
+2025-01-09 11:13:14,998 - DEBUG - Importing PngImagePlugin
+2025-01-09 11:13:14,998 - DEBUG - Importing PpmImagePlugin
+2025-01-09 11:13:14,998 - DEBUG - Importing PsdImagePlugin
+2025-01-09 11:13:15,002 - DEBUG - Importing SgiImagePlugin
+2025-01-09 11:13:15,006 - DEBUG - Importing SpiderImagePlugin
+2025-01-09 11:13:15,008 - DEBUG - Importing SunImagePlugin
+2025-01-09 11:13:15,009 - DEBUG - Importing TgaImagePlugin
+2025-01-09 11:13:15,011 - DEBUG - Importing TiffImagePlugin
+2025-01-09 11:13:15,011 - DEBUG - Importing WebPImagePlugin
+2025-01-09 11:13:15,014 - DEBUG - Importing WmfImagePlugin
+2025-01-09 11:13:15,016 - DEBUG - Importing XbmImagePlugin
+2025-01-09 11:13:15,019 - DEBUG - Importing XpmImagePlugin
+2025-01-09 11:13:15,021 - DEBUG - Importing XVThumbImagePlugin
+2025-01-09 11:13:15,049 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:15,200 - DEBUG - https://www.gktoday.in:443 "GET /alaknanda-rivers-landslide-vulnerability-uncovered/ HTTP/1.1" 200 None
+2025-01-09 11:13:15,230 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:15,296 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Alaknanda-Rivers-Landslide-Vulnerability-1736314315-1.jpg HTTP/1.1" 200 328643
+2025-01-09 11:13:15,362 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:15,504 - DEBUG - https://www.gktoday.in:443 "GET /ujala-scheme-a-decade-of-energy-efficiency/ HTTP/1.1" 200 None
+2025-01-09 11:13:15,533 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:15,603 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2022/01/ujala-scheme.png HTTP/1.1" 200 234422
+2025-01-09 11:13:15,623 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:15,624 - DEBUG - STREAM b'IDAT' 41 234365
+2025-01-09 11:13:15,648 - INFO - Article already exists: 7.1 Magnitude Earthquake Hits Tibet
+2025-01-09 11:13:15,648 - INFO - Article already exists: Jharkhand’s Maiya Samman Yojana Initiative
+2025-01-09 11:13:15,649 - INFO - Article already exists: IIT Madras Inaugurates Asia’s Largest Shallow Wave Basin Research Facility
+2025-01-09 11:13:15,650 - INFO - Article already exists: Alaknanda River’s Landslide Vulnerability
+2025-01-09 11:13:15,651 - INFO - Article already exists: 10 Years of UJALA Scheme
+2025-01-09 11:13:15,652 - INFO - Scraping page 2: https://www.gktoday.in/current-affairs/page/2/
+2025-01-09 11:13:15,654 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:15,781 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/2/ HTTP/1.1" 200 None
+2025-01-09 11:13:15,804 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:16,342 - DEBUG - https://www.gktoday.in:443 "GET /ujala-scheme-a-decade-of-energy-efficiency/ HTTP/1.1" 200 None
+2025-01-09 11:13:16,370 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:16,439 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2022/01/ujala-scheme.png HTTP/1.1" 200 234422
+2025-01-09 11:13:16,459 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:16,459 - DEBUG - STREAM b'IDAT' 41 234365
+2025-01-09 11:13:16,483 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:16,673 - DEBUG - https://www.gktoday.in:443 "GET /unveiling-ancient-ancestry-through-genetic-research/ HTTP/1.1" 200 None
+2025-01-09 11:13:16,702 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:16,768 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Analysing-aDNA-with-Twigstats-1736313970-1.jpg HTTP/1.1" 200 124235
+2025-01-09 11:13:16,844 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:17,037 - DEBUG - https://www.gktoday.in:443 "GET /indonesia-joins-brics-as-full-member/ HTTP/1.1" 200 None
+2025-01-09 11:13:17,071 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:17,137 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Indonesia-Joins-BRICS-as-Full-Member-1736314715-1.jpg HTTP/1.1" 200 106912
+2025-01-09 11:13:17,173 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:17,317 - DEBUG - https://www.gktoday.in:443 "GET /daily-current-affairs-quiz-january-8-2025/ HTTP/1.1" 200 None
+2025-01-09 11:13:17,348 - DEBUG - Starting new HTTPS connection (1): i0.wp.com:443
+2025-01-09 11:13:17,502 - DEBUG - https://i0.wp.com:443 "GET /www.gktoday.in/wp-content/uploads/2025/01/photo_2025-01-04_08-40-38.jpg?fit=53%2C35&ssl=1 HTTP/1.1" 200 1593
+2025-01-09 11:13:17,514 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:17,618 - DEBUG - https://www.gktoday.in:443 "GET /challenges-in-corporate-tax-and-excise-duty-collections/ HTTP/1.1" 200 None
+2025-01-09 11:13:17,647 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:17,719 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2023/01/Direct-Tax-Returns-750x375-1.jpg HTTP/1.1" 200 30903
+2025-01-09 11:13:17,730 - INFO - Article already exists: 10 Years of UJALA Scheme
+2025-01-09 11:13:17,731 - INFO - Article already exists: Analysing aDNA with Twigstats
+2025-01-09 11:13:17,732 - INFO - Article already exists: Indonesia Joins BRICS as Full Member
+2025-01-09 11:13:17,734 - INFO - Article already exists: Daily Current Affairs Quiz: January 8, 2025
+2025-01-09 11:13:17,735 - INFO - Article already exists: Challenges in Corporate Tax and Excise Duty Collections
+2025-01-09 11:13:17,735 - INFO - Scraping page 3: https://www.gktoday.in/current-affairs/page/3/
+2025-01-09 11:13:17,738 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:17,860 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/3/ HTTP/1.1" 200 None
+2025-01-09 11:13:17,882 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,058 - DEBUG - https://www.gktoday.in:443 "GET /udan-2-0-reviving-regional-connectivity-in-india/ HTTP/1.1" 200 None
+2025-01-09 11:13:18,090 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,156 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/UDAN-2.0-Reviving-Regional-Connectivity-in-India-1736218461-1.jpg HTTP/1.1" 200 15925
+2025-01-09 11:13:18,163 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,347 - DEBUG - https://www.gktoday.in:443 "GET /forest-rights-dispute-in-madhya-pradesh/ HTTP/1.1" 200 None
+2025-01-09 11:13:18,378 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,443 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2019/09/Northeast-States-crowds-list-of-states-with-most-Dense-Tree-Forest-Cover.jpg HTTP/1.1" 200 14165
+2025-01-09 11:13:18,450 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,572 - DEBUG - https://www.gktoday.in:443 "GET /golden-jackals-resurface-in-urban-mumbai/ HTTP/1.1" 200 None
+2025-01-09 11:13:18,603 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,683 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Golden-Jackals-Resurface-in-Urban-Mumbai-1736218211-1.jpg HTTP/1.1" 200 122656
+2025-01-09 11:13:18,722 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,861 - DEBUG - https://www.gktoday.in:443 "GET /new-scheme-supports-tribal-education-in-odisha/ HTTP/1.1" 200 None
+2025-01-09 11:13:18,890 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:18,960 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2018/04/odisha.png HTTP/1.1" 200 56448
+2025-01-09 11:13:18,966 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:18,967 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 11:13:18,967 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 11:13:18,967 - DEBUG - STREAM b'IDAT' 70 56362
+2025-01-09 11:13:18,974 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:19,154 - DEBUG - https://www.gktoday.in:443 "GET /bharatpol-portal-a-new-era-in-crime-fighting/ HTTP/1.1" 200 None
+2025-01-09 11:13:19,181 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:19,245 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2021/05/cbi.jpg HTTP/1.1" 200 49354
+2025-01-09 11:13:19,257 - INFO - Article already exists: UDAN 2.0 – Reviving Regional Connectivity in India
+2025-01-09 11:13:19,258 - INFO - Article already exists: Forest Rights Dispute in Madhya Pradesh
+2025-01-09 11:13:19,259 - INFO - Article already exists: Golden Jackals Resurface in Urban Mumbai
+2025-01-09 11:13:19,260 - INFO - Article already exists: Shahid Madho Singh Haath Kharcha Scheme Launched in Odisha
+2025-01-09 11:13:19,261 - INFO - Article already exists: Bharatpol Portal – A New Era in Crime Fighting
+2025-01-09 11:13:19,261 - INFO - Scraping page 4: https://www.gktoday.in/current-affairs/page/4/
+2025-01-09 11:13:19,263 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:19,364 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/4/ HTTP/1.1" 200 None
+2025-01-09 11:13:19,394 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:19,593 - DEBUG - https://www.gktoday.in:443 "GET /pravasi-bharatiya-divas-2025-overview/ HTTP/1.1" 200 None
+2025-01-09 11:13:19,624 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:19,698 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Pravasi-Bharatiya-Divas-2025-1736217842.png HTTP/1.1" 200 1020588
+2025-01-09 11:13:19,745 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:19,745 - DEBUG - STREAM b'IDAT' 41 1020531
+2025-01-09 11:13:19,782 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:19,967 - DEBUG - https://www.gktoday.in:443 "GET /amendments-to-the-forest-conservation-act-2025/ HTTP/1.1" 200 None
+2025-01-09 11:13:20,000 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:20,067 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Uttrakhand-Forest-Department-Establishes-Mahabharata-Vatika-1735737918.webp HTTP/1.1" 200 213574
+2025-01-09 11:13:20,121 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:20,302 - DEBUG - https://www.gktoday.in:443 "GET /income-inequality-trends-in-india-2023/ HTTP/1.1" 200 None
+2025-01-09 11:13:20,331 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:20,396 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2017/01/Inequality.jpg HTTP/1.1" 200 61360
+2025-01-09 11:13:20,416 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:20,566 - DEBUG - https://www.gktoday.in:443 "GET /new-drone-incentives-to-boost-domestic-manufacturing/ HTTP/1.1" 200 None
+2025-01-09 11:13:20,598 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:20,657 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/New-Drone-Incentives-to-Boost-Domestic-Manufacturing-1736217407-1.jpg HTTP/1.1" 200 3284
+2025-01-09 11:13:20,663 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:20,843 - DEBUG - https://www.gktoday.in:443 "GET /alert-on-beta-blocker-drug-reactions/ HTTP/1.1" 200 None
+2025-01-09 11:13:20,873 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:20,942 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Alert-on-Beta-Blocker-Drug-Reactions-1736217257.png HTTP/1.1" 200 204601
+2025-01-09 11:13:20,959 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:20,959 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 11:13:20,959 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 11:13:20,959 - DEBUG - STREAM b'IDAT' 70 204515
+2025-01-09 11:13:20,966 - INFO - Article already exists: Pravasi Bharatiya Divas 2025
+2025-01-09 11:13:20,967 - INFO - Article already exists: Amendments to the Forest Conservation Act 2025
+2025-01-09 11:13:20,969 - INFO - Article already exists: Income Inequality Trends in India 2023
+2025-01-09 11:13:20,970 - INFO - Article already exists: New Drone Incentives to Boost Domestic Manufacturing
+2025-01-09 11:13:20,971 - INFO - Article already exists: Alert on Beta Blocker Drug Reactions
+2025-01-09 11:13:20,971 - INFO - Scraping page 5: https://www.gktoday.in/current-affairs/page/5/
+2025-01-09 11:13:20,973 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:21,077 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/5/ HTTP/1.1" 200 None
+2025-01-09 11:13:21,104 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:21,285 - DEBUG - https://www.gktoday.in:443 "GET /rbi-mandates-15-day-credit-score-updates/ HTTP/1.1" 200 None
+2025-01-09 11:13:21,316 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:21,401 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/RBI-Mandates-15-Day-Credit-Score-Updates-1736217130-1.jpg HTTP/1.1" 200 71406
+2025-01-09 11:13:21,421 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:21,610 - DEBUG - https://www.gktoday.in:443 "GET /ugc-revises-vice-chancellor-selection-process/ HTTP/1.1" 200 None
+2025-01-09 11:13:21,647 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:21,739 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/UGC-Revises-Vice-Chancellor-Selection-Process-1736217050.png HTTP/1.1" 200 437045
+2025-01-09 11:13:21,775 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:21,775 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 11:13:21,775 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 11:13:21,775 - DEBUG - STREAM b'IDAT' 70 436959
+2025-01-09 11:13:21,786 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:21,912 - DEBUG - https://www.gktoday.in:443 "GET /national-anthem-controversy-in-tamil-nadu-assembly/ HTTP/1.1" 200 None
+2025-01-09 11:13:21,940 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,006 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/National-Anthem-Controversy-in-Tamil-Nadu-Assembly-1736216907.png HTTP/1.1" 200 90944
+2025-01-09 11:13:22,014 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:22,014 - DEBUG - STREAM b'gAMA' 41 4
+2025-01-09 11:13:22,014 - DEBUG - STREAM b'cHRM' 57 32
+2025-01-09 11:13:22,014 - DEBUG - STREAM b'IDAT' 101 90827
+2025-01-09 11:13:22,021 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,165 - DEBUG - https://www.gktoday.in:443 "GET /e-commerce-giants-face-legal-challenges-in-india/ HTTP/1.1" 200 None
+2025-01-09 11:13:22,193 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,268 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/E-commerce-Giants-Face-Legal-Challenges-in-India-1736216832.png HTTP/1.1" 200 340435
+2025-01-09 11:13:22,298 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:22,298 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 11:13:22,298 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 11:13:22,298 - DEBUG - STREAM b'IDAT' 70 340349
+2025-01-09 11:13:22,307 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,446 - DEBUG - https://www.gktoday.in:443 "GET /about-the-polar-vortex-phenomenon/ HTTP/1.1" 200 None
+2025-01-09 11:13:22,477 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,543 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Polar-Vortex-Triggers-Winter-Storms-in-US-1736216713-1.jpg HTTP/1.1" 200 80136
+2025-01-09 11:13:22,575 - INFO - Article already exists: RBI Mandates 15-Day Credit Score Updates
+2025-01-09 11:13:22,576 - INFO - Article already exists: UGC Revises Vice-Chancellor Selection Process
+2025-01-09 11:13:22,577 - INFO - Article already exists: National Anthem Controversy in Tamil Nadu Assembly
+2025-01-09 11:13:22,578 - INFO - Article already exists: E-commerce Giants Face Legal Challenges in India
+2025-01-09 11:13:22,579 - INFO - Article already exists: Polar Vortex Triggers Winter Storms in US
+2025-01-09 11:13:22,579 - INFO - Scraping page 6: https://www.gktoday.in/current-affairs/page/6/
+2025-01-09 11:13:22,581 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,703 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/6/ HTTP/1.1" 200 None
+2025-01-09 11:13:22,726 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,868 - DEBUG - https://www.gktoday.in:443 "GET /us-china-science-agreement-sparks-global-debate/ HTTP/1.1" 200 None
+2025-01-09 11:13:22,907 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:22,974 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/US-China-Science-Agreement-Sparks-Global-Debate-1736216605-1.jpg HTTP/1.1" 200 40052
+2025-01-09 11:13:22,986 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:23,163 - DEBUG - https://www.gktoday.in:443 "GET /us-china-tensions-rise-over-critical-minerals/ HTTP/1.1" 200 None
+2025-01-09 11:13:23,196 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:23,294 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/US-China-Tensions-Rise-Over-Critical-Minerals-1736216485-1.jpg HTTP/1.1" 200 220814
+2025-01-09 11:13:23,360 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:23,540 - DEBUG - https://www.gktoday.in:443 "GET /supreme-court-ruling-on-non-cognizable-offences/ HTTP/1.1" 200 None
+2025-01-09 11:13:23,591 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:23,840 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Supreme-Court-Ruling-on-Non-Cognizable-Offences-1736216399.png HTTP/1.1" 200 258189
+2025-01-09 11:13:23,862 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:23,862 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 11:13:23,862 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 11:13:23,862 - DEBUG - STREAM b'IDAT' 70 258103
+2025-01-09 11:13:23,870 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:24,020 - DEBUG - https://www.gktoday.in:443 "GET /trapped-workers-in-assam-coal-mine/ HTTP/1.1" 200 None
+2025-01-09 11:13:24,050 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:24,123 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/What-is-Rat-Hole-Mining-1736216283-1.jpg HTTP/1.1" 200 226943
+2025-01-09 11:13:24,178 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:24,364 - DEBUG - https://www.gktoday.in:443 "GET /nyc-launches-congestion-pricing-initiative/ HTTP/1.1" 200 None
+2025-01-09 11:13:24,395 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:24,462 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/NYC-Launches-Congestion-Pricing-Initiative-1736216117-1.jpg HTTP/1.1" 200 33163
+2025-01-09 11:13:24,470 - INFO - Article already exists: US-China Science Agreement Sparks Global Debate
+2025-01-09 11:13:24,471 - INFO - Article already exists: US-China Tensions Rise Over Critical Minerals
+2025-01-09 11:13:24,472 - INFO - Article already exists: Supreme Court Ruling on Non-Cognizable Offences
+2025-01-09 11:13:24,473 - INFO - Article already exists: What is Rat-Hole Mining?
+2025-01-09 11:13:24,474 - INFO - Article already exists: NYC Launches Congestion Pricing Initiative
+2025-01-09 11:13:24,474 - INFO - Scraping page 7: https://www.gktoday.in/current-affairs/page/7/
+2025-01-09 11:13:24,476 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:24,588 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/7/ HTTP/1.1" 200 None
+2025-01-09 11:13:24,612 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:24,800 - DEBUG - https://www.gktoday.in:443 "GET /daily-current-affairs-quiz-january-7-2025/ HTTP/1.1" 200 None
+2025-01-09 11:13:24,831 - DEBUG - Starting new HTTPS connection (1): i0.wp.com:443
+2025-01-09 11:13:24,982 - DEBUG - https://i0.wp.com:443 "GET /www.gktoday.in/wp-content/uploads/2025/01/photo_2025-01-04_08-40-38.jpg?fit=53%2C35&ssl=1 HTTP/1.1" 200 1593
+2025-01-09 11:13:24,988 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:25,165 - DEBUG - https://www.gktoday.in:443 "GET /climate-change-disrupts-earths-water-cycle/ HTTP/1.1" 200 None
+2025-01-09 11:13:25,194 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:25,263 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Climate-Change-Disrupts-Earths-Water-Cycle-1736215980-1-scaled.jpg HTTP/1.1" 200 695476
+2025-01-09 11:13:25,388 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:25,564 - DEBUG - https://www.gktoday.in:443 "GET /alcohol-and-cancer-new-surgeon-general-report/ HTTP/1.1" 200 None
+2025-01-09 11:13:25,595 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:25,662 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/US-Surgeon-General-Report-on-Alcohol-and-Cancer-1736215904.png HTTP/1.1" 200 195387
+2025-01-09 11:13:25,680 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:25,681 - DEBUG - STREAM b'PLTE' 41 768
+2025-01-09 11:13:25,681 - DEBUG - STREAM b'IDAT' 821 194550
+2025-01-09 11:13:25,704 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:25,871 - DEBUG - https://www.gktoday.in:443 "GET /arunachal-pradeshs-religious-conversion-act-revival/ HTTP/1.1" 200 None
+2025-01-09 11:13:25,899 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:25,964 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Arunachal-Pradeshs-Religious-Conversion-Act-Revival-1736215651-1.jpg HTTP/1.1" 200 135004
+2025-01-09 11:13:26,017 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:26,196 - DEBUG - https://www.gktoday.in:443 "GET /goa-shipyard-launches-new-fast-patrol-vessels/ HTTP/1.1" 200 None
+2025-01-09 11:13:26,253 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:26,322 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Goa-Shipyard-Launches-New-Fast-Patrol-Vessels-1736149030.png HTTP/1.1" 200 404926
+2025-01-09 11:13:26,354 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:26,354 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 11:13:26,354 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 11:13:26,354 - DEBUG - STREAM b'IDAT' 70 404840
+2025-01-09 11:13:26,363 - INFO - Article already exists: Daily Current Affairs Quiz: January 7, 2025
+2025-01-09 11:13:26,364 - INFO - Article already exists: Climate Change Disrupts Earth’s Water Cycle
+2025-01-09 11:13:26,365 - INFO - Article already exists: US Surgeon General Report on Alcohol and Cancer
+2025-01-09 11:13:26,367 - INFO - Article already exists: Arunachal Pradesh’s Religious Conversion Act Revival
+2025-01-09 11:13:26,367 - INFO - Article already exists: Goa Shipyard Launches New Fast Patrol Vessels
+2025-01-09 11:13:26,368 - INFO - Scraping page 8: https://www.gktoday.in/current-affairs/page/8/
+2025-01-09 11:13:26,371 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:26,480 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/8/ HTTP/1.1" 200 None
+2025-01-09 11:13:26,505 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:26,685 - DEBUG - https://www.gktoday.in:443 "GET /net-neutrality-recent-developments-and-context/ HTTP/1.1" 200 None
+2025-01-09 11:13:26,713 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:26,780 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2017/11/net-neutrality.jpg HTTP/1.1" 200 17216
+2025-01-09 11:13:26,786 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:26,925 - DEBUG - https://www.gktoday.in:443 "GET /targeting-lipid-metabolism-to-control-malaria-mosquitoes/ HTTP/1.1" 200 None
+2025-01-09 11:13:26,958 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:27,022 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Targeting-Lipid-Metabolism-to-Control-Malaria-Mosquitoes-1736148801-1.jpg HTTP/1.1" 200 88066
+2025-01-09 11:13:27,050 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:27,231 - DEBUG - https://www.gktoday.in:443 "GET /isros-groundbreaking-space-experiments/ HTTP/1.1" 200 None
+2025-01-09 11:13:27,261 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:27,328 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2019/09/isro-logo.jpg HTTP/1.1" 200 8243
+2025-01-09 11:13:27,337 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:27,446 - DEBUG - https://www.gktoday.in:443 "GET /new-fund-to-boost-critical-minerals-exploration/ HTTP/1.1" 200 None
+2025-01-09 11:13:27,473 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:27,541 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2023/04/deep-sea-mining.png HTTP/1.1" 200 1227331
+2025-01-09 11:13:27,594 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:27,595 - DEBUG - STREAM b'tRNS' 41 6
+2025-01-09 11:13:27,595 - DEBUG - STREAM b'IDAT' 59 1227256
+2025-01-09 11:13:27,662 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:27,838 - DEBUG - https://www.gktoday.in:443 "GET /major-infrastructure-projects-launched-in-delhi/ HTTP/1.1" 200 None
+2025-01-09 11:13:27,867 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:27,932 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Major-Infrastructure-Projects-Launched-in-Delhi-1736149144-1.jpg HTTP/1.1" 200 64087
+2025-01-09 11:13:27,948 - INFO - Article already exists: Net Neutrality – Recent Developments and Context
+2025-01-09 11:13:27,948 - INFO - Article already exists: Targeting Lipid Metabolism to Control Malaria Mosquitoes
+2025-01-09 11:13:27,949 - INFO - Article already exists: ISRO Successfully Sprouts Cowpea Seeds in Space
+2025-01-09 11:13:27,950 - INFO - Article already exists: New Fund to Boost Critical Minerals Exploration
+2025-01-09 11:13:27,951 - INFO - Article already exists: Major Infrastructure Projects Launched in Delhi
+2025-01-09 11:13:27,951 - INFO - Scraping page 9: https://www.gktoday.in/current-affairs/page/9/
+2025-01-09 11:13:27,954 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:28,055 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/9/ HTTP/1.1" 200 None
+2025-01-09 11:13:28,080 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:28,261 - DEBUG - https://www.gktoday.in:443 "GET /bird-flu-outbreak-affects-indian-wildlife/ HTTP/1.1" 200 None
+2025-01-09 11:13:28,296 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:28,363 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Bird-Flu-Outbreak-Affects-Indian-Wildlife-1736148163-1.jpg HTTP/1.1" 200 87357
+2025-01-09 11:13:28,379 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:28,561 - DEBUG - https://www.gktoday.in:443 "GET /new-pli-scheme-for-steel-sector-launched/ HTTP/1.1" 200 None
+2025-01-09 11:13:28,595 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:28,665 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/New-PLI-Scheme-for-Steel-Sector-Launched-1736148059-1.jpg HTTP/1.1" 200 144878
+2025-01-09 11:13:28,705 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:28,894 - DEBUG - https://www.gktoday.in:443 "GET /global-nutrition-targets-progress-and-challenges/ HTTP/1.1" 200 None
+2025-01-09 11:13:28,922 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:28,984 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2019/10/malnutrition.jpg HTTP/1.1" 200 8902
+2025-01-09 11:13:28,991 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:29,166 - DEBUG - https://www.gktoday.in:443 "GET /about-the-recent-rupee-depreciation/ HTTP/1.1" 200 None
+2025-01-09 11:13:29,195 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:29,264 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Why-Rupee-Fell-to-Record-Low-1736147696-1-scaled.jpg HTTP/1.1" 200 314595
+2025-01-09 11:13:29,376 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:29,523 - DEBUG - https://www.gktoday.in:443 "GET /education-policy-amendments-in-india/ HTTP/1.1" 200 None
+2025-01-09 11:13:29,555 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:29,617 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2020/02/Higher-Education-Leadership-Development-Programme-for-Administrator.png HTTP/1.1" 200 5859
+2025-01-09 11:13:29,620 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:29,621 - DEBUG - STREAM b'PLTE' 41 537
+2025-01-09 11:13:29,621 - DEBUG - STREAM b'IDAT' 590 5253
+2025-01-09 11:13:29,624 - INFO - Article already exists: HPAI H5N1 Outbreak Affects Indian Wildlife
+2025-01-09 11:13:29,625 - INFO - Article already exists: New PLI Scheme for Steel Sector Launched
+2025-01-09 11:13:29,626 - INFO - Article already exists: Global Nutrition Targets – Progress and Challenges
+2025-01-09 11:13:29,627 - INFO - Article already exists: Why Rupee Fell to Record Low
+2025-01-09 11:13:29,628 - INFO - Article already exists: Why did Government Scrap No-Detention Policy?
+2025-01-09 11:13:29,628 - INFO - Scraping page 10: https://www.gktoday.in/current-affairs/page/10/
+2025-01-09 11:13:29,630 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:29,766 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/10/ HTTP/1.1" 200 None
+2025-01-09 11:13:29,791 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:29,944 - DEBUG - https://www.gktoday.in:443 "GET /kerala-forest-act-amendment-sparks-controversy/ HTTP/1.1" 200 None
+2025-01-09 11:13:29,977 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:30,045 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Kerala-Forest-Act-Amendment-Sparks-Controversy-1736144736.png HTTP/1.1" 200 292641
+2025-01-09 11:13:30,073 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:30,073 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 11:13:30,073 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 11:13:30,073 - DEBUG - STREAM b'IDAT' 70 292555
+2025-01-09 11:13:30,080 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:30,233 - DEBUG - https://www.gktoday.in:443 "GET /farmers-protests-and-supreme-court-committee-update/ HTTP/1.1" 200 None
+2025-01-09 11:13:30,270 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:30,335 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Farmers-Protests-and-Supreme-Court-Committee-Update-1736144519-1.jpg HTTP/1.1" 200 247021
+2025-01-09 11:13:30,422 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:30,557 - DEBUG - https://www.gktoday.in:443 "GET /biden-awards-presidential-medal-of-freedom-2025/ HTTP/1.1" 200 None
+2025-01-09 11:13:30,589 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:30,649 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Biden-Awards-Presidential-Medal-of-Freedom-2025-1736144402-1.jpg HTTP/1.1" 200 34730
+2025-01-09 11:13:30,662 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:30,835 - DEBUG - https://www.gktoday.in:443 "GET /punjab-arhtiyas-advocate-for-agricultural-policy-reform/ HTTP/1.1" 200 None
+2025-01-09 11:13:30,862 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:30,928 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2015/07/Agriculture-e1437363293394.jpeg HTTP/1.1" 200 7609
+2025-01-09 11:13:30,938 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:31,085 - DEBUG - https://www.gktoday.in:443 "GET /biofuels-transforming-indias-sugar-industry/ HTTP/1.1" 200 None
+2025-01-09 11:13:31,116 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:31,181 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2019/09/CCEA-keeps-Fair-and-Remunerative-Price-of-sugarcane-e1564113032882.jpg HTTP/1.1" 200 22277
+2025-01-09 11:13:31,192 - INFO - Article already exists: Kerala Forest Act Amendment Sparks Controversy
+2025-01-09 11:13:31,194 - INFO - Article already exists: Farmers’ Protests and Supreme Court Committee Update
+2025-01-09 11:13:31,195 - INFO - Article already exists: Biden Awards Presidential Medal of Freedom 2025
+2025-01-09 11:13:31,197 - INFO - Article already exists: Punjab Arhtiyas Advocate for Agricultural Policy Reform
+2025-01-09 11:13:31,198 - INFO - Article already exists: Adopting F-T-P Approach for Sustainable Sugar Industry
+2025-01-09 11:13:31,198 - INFO - Scraping page 11: https://www.gktoday.in/current-affairs/page/11/
+2025-01-09 11:13:31,201 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:31,327 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/11/ HTTP/1.1" 200 None
+2025-01-09 11:13:31,351 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:31,490 - DEBUG - https://www.gktoday.in:443 "GET /tripuras-historic-butterfly-discovery/ HTTP/1.1" 200 None
+2025-01-09 11:13:31,540 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:31,614 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Banded-Royal-Butterfly-Discovered-in-Tripura-1736138799-1.jpg HTTP/1.1" 200 39527
+2025-01-09 11:13:31,645 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:31,829 - DEBUG - https://www.gktoday.in:443 "GET /decline-in-rural-to-urban-migration-in-india/ HTTP/1.1" 200 None
+2025-01-09 11:13:31,866 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:31,929 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Decline-in-Rural-to-Urban-Migration-in-India-1735971733-1.jpg HTTP/1.1" 200 42296
+2025-01-09 11:13:31,939 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:32,122 - DEBUG - https://www.gktoday.in:443 "GET /cci-sets-new-standards-in-ma-regulations/ HTTP/1.1" 200 None
+2025-01-09 11:13:32,151 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:32,217 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2017/07/merger.jpg HTTP/1.1" 200 64572
+2025-01-09 11:13:32,222 - DEBUG - tag: Copyright (33432) - type: string (2) Tag Location: 22 - Data Location: 26 - value: b'kentoh\x00'
+2025-01-09 11:13:32,230 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:32,370 - DEBUG - https://www.gktoday.in:443 "GET /empowering-women-entrepreneurs-in-mira-bhayandar/ HTTP/1.1" 200 None
+2025-01-09 11:13:32,397 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:32,462 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/What-is-%E2%80%98Faral-Sakhi-Initiative-1735971423-1.jpg HTTP/1.1" 200 80504
+2025-01-09 11:13:32,487 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:32,624 - DEBUG - https://www.gktoday.in:443 "GET /indias-education-spending-under-scrutiny/ HTTP/1.1" 200 None
+2025-01-09 11:13:32,659 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:32,735 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Indias-Education-Spending-Under-Scrutiny-1735971086-1.jpg HTTP/1.1" 200 64169
+2025-01-09 11:13:32,759 - INFO - Article already exists: Banded Royal Butterfly Discovered in Tripura
+2025-01-09 11:13:32,760 - INFO - Article already exists: Decline in Rural to Urban Migration in India
+2025-01-09 11:13:32,762 - INFO - Article already exists: CCI Sets New Standards in M&A Regulations
+2025-01-09 11:13:32,763 - INFO - Article already exists: What is ‘Faral Sakhi’ Initiative?
+2025-01-09 11:13:32,765 - INFO - Article already exists: India’s Education Spending Under Scrutiny
+2025-01-09 11:13:32,765 - INFO - Scraping page 12: https://www.gktoday.in/current-affairs/page/12/
+2025-01-09 11:13:32,767 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:32,888 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/12/ HTTP/1.1" 200 None
+2025-01-09 11:13:32,911 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:33,109 - DEBUG - https://www.gktoday.in:443 "GET /the-discovery-of-pallass-cat-in-india/ HTTP/1.1" 200 None
+2025-01-09 11:13:33,139 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:33,206 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/The-Discovery-of-Pallass-Cat-in-India-1735971322-1.jpg HTTP/1.1" 200 249623
+2025-01-09 11:13:33,283 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:33,404 - DEBUG - https://www.gktoday.in:443 "GET /new-e-auction-portal-baanknet-launched/ HTTP/1.1" 200 None
+2025-01-09 11:13:33,432 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:33,496 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/New-E-Auction-Portal-Baanknet-Launched-1735970726-1.jpg HTTP/1.1" 200 65257
+2025-01-09 11:13:33,530 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:33,713 - DEBUG - https://www.gktoday.in:443 "GET /maharashtra-reviews-ladki-bahin-beneficiary-list/ HTTP/1.1" 200 None
+2025-01-09 11:13:33,750 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:33,816 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Maharashtra-Reviews-Ladki-Bahin-Beneficiary-List-1735970094-1.jpg HTTP/1.1" 200 111172
+2025-01-09 11:13:33,843 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:34,028 - DEBUG - https://www.gktoday.in:443 "GET /nasa-unveils-mars-chopper-drone-successor/ HTTP/1.1" 200 None
+2025-01-09 11:13:34,064 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:34,127 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/NASA-Unveils-Mars-Chopper-Drone-Successor-1735970011-1.jpg HTTP/1.1" 200 30409
+2025-01-09 11:13:34,136 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:34,262 - DEBUG - https://www.gktoday.in:443 "GET /new-amendments-to-indias-foreign-trade-policy/ HTTP/1.1" 200 None
+2025-01-09 11:13:34,295 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:34,363 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2023/03/ports-on-national-and-foreign-trade.png HTTP/1.1" 200 387800
+2025-01-09 11:13:34,391 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 11:13:34,391 - DEBUG - STREAM b'tRNS' 41 6
+2025-01-09 11:13:34,391 - DEBUG - STREAM b'IDAT' 59 387725
+2025-01-09 11:13:34,428 - INFO - Article already exists: The Discovery of Pallas’s Cat in India
+2025-01-09 11:13:34,429 - INFO - Article already exists: New E-Auction Portal ‘Baanknet’ Launched
+2025-01-09 11:13:34,430 - INFO - Article already exists: Maharashtra Reviews Ladki Bahin Beneficiary List
+2025-01-09 11:13:34,431 - INFO - Article already exists: NASA Unveils Mars Chopper Drone Successor
+2025-01-09 11:13:34,432 - INFO - Article already exists: New Amendments to India’s Foreign Trade Policy
+2025-01-09 11:13:34,432 - INFO - Scraping page 13: https://www.gktoday.in/current-affairs/page/13/
+2025-01-09 11:13:34,434 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:34,566 - DEBUG - https://www.gktoday.in:443 "GET /current-affairs/page/13/ HTTP/1.1" 200 None
+2025-01-09 11:13:34,591 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:34,771 - DEBUG - https://www.gktoday.in:443 "GET /epfo-launches-centralised-pension-payments-system/ HTTP/1.1" 200 None
+2025-01-09 11:13:34,803 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:34,869 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/EPFO-Launches-Centralised-Pension-Payments-System-1735969742-1.jpg HTTP/1.1" 200 26594
+2025-01-09 11:13:34,889 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:35,013 - DEBUG - https://www.gktoday.in:443 "GET /gujarats-first-coastal-bird-census-begins-soon/ HTTP/1.1" 200 None
+2025-01-09 11:13:35,045 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:35,287 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Gujarats-First-Coastal-Bird-Census-Begins-Soon-1735969490-1.jpg HTTP/1.1" 200 138294
+2025-01-09 11:13:35,343 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:35,509 - DEBUG - https://www.gktoday.in:443 "GET /indias-logistics-index-achievers-2024/ HTTP/1.1" 200 None
+2025-01-09 11:13:35,540 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:35,623 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Logistics-Ease-Across-Different-States-LEADS-2024-1735969380-1.jpg HTTP/1.1" 200 56100
+2025-01-09 11:13:35,640 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:35,819 - DEBUG - https://www.gktoday.in:443 "GET /unrwa-faces-closure-amidst-rising-tensions/ HTTP/1.1" 200 None
+2025-01-09 11:13:35,853 - DEBUG - Starting new HTTPS connection (1): www.gktoday.in:443
+2025-01-09 11:13:35,930 - DEBUG - https://www.gktoday.in:443 "GET /wp-content/uploads/2025/01/Unrwa-Faces-Closure-Amidst-Rising-Tensions-1735968933-1.jpg HTTP/1.1" 200 372492
+2025-01-09 11:13:36,036 - INFO - Article already exists: EPFO Launches Centralised Pension Payments System
+2025-01-09 11:13:36,036 - INFO - Article already exists: Gujarat’s First Coastal Bird Census Begins Soon
+2025-01-09 11:13:36,038 - INFO - Article already exists: Logistics Ease Across Different States (LEADS) 2024
+2025-01-09 11:13:36,040 - INFO - Article already exists: Unrwa Faces Closure Amidst Rising Tensions
+2025-01-09 11:13:36,040 - INFO - Scraping completed and database connection closed.

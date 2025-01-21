@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GK Today Articles</title>
+</head>
+<body>
+    <h1>GK Today Articles</h1>
+    {% for article in articles %}
+        <div>
+            <h2>{{ article.title }}</h2>
+            <p><strong>Date Published:</strong> {{ article.date }}</p>
+            <p><strong>Summary:</strong> {{ article.summary }}</p>
+            <p><strong>Content:</strong> {{ article.content }}</p>
+            
+            {% if article.image %}
+                <!-- Render Base64 image -->
+                <img src="data:image/{{ article.mime_type }};base64,{{ article.image }}" alt="Article Image" width="300">
+            {% else %}
+                <p>No Image Available</p>
+            {% endif %}
+            
+            <p><a href="{{ article.image_link }}" target="_blank">View Original Image</a></p>
+        </div>
+        <hr>
+    {% endfor %}
+</body>
+</html>
