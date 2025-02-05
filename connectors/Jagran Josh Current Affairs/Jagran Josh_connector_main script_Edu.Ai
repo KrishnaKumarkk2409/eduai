@@ -18,9 +18,9 @@ logging.basicConfig(level=logging.INFO,
 
 # Create database if not exists
 conn = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password=""
+    host="18.210.106.165",
+    user="anyhost",
+    password="hLE2IkBYyFqXWh[B"
 )
 cursor = conn.cursor()
 cursor.execute("CREATE DATABASE IF NOT EXISTS temp")
@@ -68,9 +68,9 @@ def fetch_article_content(article_url):
 # Function to fetch articles from a given URL
 def fetch_articles(url):
     conn = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
+        host="18.210.106.165",
+    user="anyhost",
+    password="hLE2IkBYyFqXWh[B",
         database="temp"
     )
     cursor = conn.cursor()
@@ -81,7 +81,7 @@ def fetch_articles(url):
         title VARCHAR(255),
         date_of_published DATE,
         summary TEXT,
-        link TEXT UNIQUE,
+        link VARCHAR(500) UNIQUE,
         image LONGBLOB,
         image_link TEXT,
         content TEXT
@@ -151,5 +151,5 @@ def main():
 
     logging.info("Data fetching and insertion completed.")
 
-if __name__ == "__main__":
+if _name_ == "__main__":
     main()
