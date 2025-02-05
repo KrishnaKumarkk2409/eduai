@@ -1,0 +1,16 @@
+# Requests library for making HTTP requests
+requests==2.28.2
+
+# BeautifulSoup library for parsing HTML content
+beautifulsoup4==4.11.1
+
+# MySQL Connector for connecting and interacting with MySQL databases
+mysql-connector-python==8.0.31
+
+# Libraries for handling dates and times
+datetime==4.3
+
+# Logging library is part of Python's standard library
+logging==0.5.1.2
+
+# (Optional) If you need other libraries for extra functionalities, add them here
