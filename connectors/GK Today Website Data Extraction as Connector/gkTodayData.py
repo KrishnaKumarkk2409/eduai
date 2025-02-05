@@ -23,9 +23,9 @@ sys.stdout.reconfigure(encoding="utf-8")
 # Database setup
 def setup_database():
     conn = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password=""
+        host="18.210.106.165",
+    user="anyhost",
+    password="hLE2IkBYyFqXWh[B"
     )
     cursor = conn.cursor()
     cursor.execute("CREATE DATABASE IF NOT EXISTS Temp")
@@ -35,10 +35,10 @@ def setup_database():
 # Connect to MySQL Database and create table
 def connect_to_database():
     conn = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="Temp"
+       host="18.210.106.165",
+    user="anyhost",
+    password="hLE2IkBYyFqXWh[B",
+        database="temp"
     )
     cursor = conn.cursor()
     cursor.execute('''CREATE TABLE IF NOT EXISTS gkToday (
@@ -46,7 +46,7 @@ def connect_to_database():
         title VARCHAR(255),
         date_of_published DATE,
         summary TEXT,
-        link TEXT UNIQUE,
+               link VARCHAR(500) UNIQUE,
         image LONGBLOB,
         image_link TEXT,
         content TEXT
@@ -154,7 +154,7 @@ def scrape(start_url, conn, cursor):
         page_number += 1
 
 # Entry point
-if __name__ == "__main__":
+if _name_ == "__main__":
     try:
         setup_database()
         conn, cursor = connect_to_database()
