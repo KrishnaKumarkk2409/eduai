@@ -36,9 +36,9 @@ all_articles_data = []
 # Database setup
 def setup_database():
     conn = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password=""
+        host="18.210.106.165",
+        user="anyhost",
+        password="hLE2IkBYyFqXWh[B",
     )
     cursor = conn.cursor()
     cursor.execute("CREATE DATABASE IF NOT EXISTS Temp")
@@ -48,10 +48,10 @@ def setup_database():
 # Connect to MySQL Database and create table
 def connect_to_database():
     conn = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="Temp"
+         host="18.210.106.165",
+        user="anyhost",
+        password="hLE2IkBYyFqXWh[B",
+        database="temp"
     )
     cursor = conn.cursor()
     cursor.execute('''CREATE TABLE IF NOT EXISTS addaConnector (
@@ -59,7 +59,7 @@ def connect_to_database():
         title VARCHAR(255),
         date_of_published DATE,
         summary TEXT,
-        link TEXT UNIQUE,
+        link VARCHAR(500) UNIQUE,
         image LONGBLOB,
         image_link TEXT,
         content TEXT
