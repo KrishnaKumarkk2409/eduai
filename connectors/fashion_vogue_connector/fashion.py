@@ -79,7 +79,8 @@ def create_table(connection):
 def article_exists(connection, article_link):
     try:
         cursor = connection.cursor()
-        query = "SELECT COUNT(*) FROM fashion_vogue WHERE link = %s"
+        query = "SELECT COUNT(*)
+ FROM fashion_vogue WHERE link = %s"
         cursor.execute(query, (article_link,))
         result = cursor.fetchone()
         return result[0] > 0
@@ -269,7 +270,8 @@ while current_page:
         # Check if the article already exists in the database
         if article_exists(connection, full_url):
             logging.info(f"Article already exists: {title}")
-            continue
+            print("Duplicate article found. Terminating the scraper.")
+            exit()  # Terminate the entire script if duplicate is found
         
         # Insert the article into the database
         insert_article(
