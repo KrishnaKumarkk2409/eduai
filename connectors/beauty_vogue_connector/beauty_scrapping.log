@@ -1,0 +1,9 @@
+2025-02-10 12:30:34,247 - INFO - package: mysql.connector.plugins
+2025-02-10 12:30:34,247 - INFO - plugin_name: caching_sha2_password
+2025-02-10 12:30:34,247 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-10 12:30:34,254 - INFO - Database 'temp' already exists.
+2025-02-10 12:30:34,255 - INFO - Switched to database 'temp'.
+2025-02-10 12:30:34,263 - INFO - Table 'beauty_vogue' created or already exists.
+2025-02-10 12:30:37,416 - INFO - Parsed HTML title: Beauty | Beauty Tips, trends & news | Vogue India
+2025-02-10 12:30:37,418 - INFO - Found 21 articles on the page.
+2025-02-10 12:30:37,871 - INFO - Article already exists: Janhvi Kapoor gives metallic tones a fresh, soft-glam update with her ‘silver flush’ beauty look
