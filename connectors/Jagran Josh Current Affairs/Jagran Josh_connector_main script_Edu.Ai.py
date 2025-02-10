@@ -151,5 +151,5 @@ def main():
 
     logging.info("Data fetching and insertion completed.")
 
-if _name_ == "__main__":
+if __name__  == "__main__":
     main()
