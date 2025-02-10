@@ -10,6 +10,3 @@ mysql-connector-python==8.0.31
 # Libraries for handling dates and times
 datetime==4.3
 
-# Logging library is part of Python's standard library
-logging==0.5.1.2
-

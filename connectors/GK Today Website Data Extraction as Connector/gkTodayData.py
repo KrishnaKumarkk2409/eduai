@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import sys
 from bs4 import BeautifulSoup  # type: ignore
 import requests
@@ -168,6 +169,8 @@ if __name__ == "__main__":
         conn.close()
         logging.info("Scraping completed and database connection closed.")
 =======
+=======
+>>>>>>> 328facc (Serving)
 import sys
 from bs4 import BeautifulSoup  # type: ignore
 import requests
@@ -336,4 +339,7 @@ if _name_ == "__main__":
         cursor.close()
         conn.close()
         logging.info("Scraping completed and database connection closed.")
+<<<<<<< HEAD
+>>>>>>> 328facc (Serving)
+=======
 >>>>>>> 328facc (Serving)

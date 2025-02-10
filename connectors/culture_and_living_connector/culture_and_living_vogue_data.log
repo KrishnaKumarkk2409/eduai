@@ -1,0 +1,9 @@
+2025-02-10 12:17:20,331 - INFO - package: mysql.connector.plugins
+2025-02-10 12:17:20,331 - INFO - plugin_name: caching_sha2_password
+2025-02-10 12:17:20,332 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-10 12:17:20,338 - INFO - Database 'temp' already exists.
+2025-02-10 12:17:20,338 - INFO - Switched to database 'temp'.
+2025-02-10 12:17:20,347 - INFO - Table 'culture_and_living_vogue' created or already exists.
+2025-02-10 12:17:22,668 - INFO - Parsed HTML title: Culture & Living | Lifestyle | Homes & Spaces | Vogue India
+2025-02-10 12:17:22,671 - INFO - Found 20 articles on the page.
+2025-02-10 12:17:22,871 - INFO - Article already exists: The full moon on February 12 is asking you to stop accepting things that don’t please you
