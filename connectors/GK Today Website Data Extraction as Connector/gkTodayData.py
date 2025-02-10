@@ -154,7 +154,7 @@ def scrape(start_url, conn, cursor):
         page_number += 1
 
 # Entry point
-if _name_ == "__main__":
+if __name__ == "__main__":
     try:
         setup_database()
         conn, cursor = connect_to_database()
