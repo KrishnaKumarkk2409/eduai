@@ -130,3 +130,92 @@
 2025-02-10 11:10:54,071 - INFO - Article already exists: Joe Biden Calls Air India-Boeing Deal a Historic Event, Will Grant 1 Million Jobs in US
 2025-02-10 11:10:54,144 - INFO - Article already exists: Adani Group wins Mumbai’s Dharavi Redevelopment Project with Rs. 5,069 crore bid
 2025-02-10 11:10:54,150 - INFO - Data fetching and insertion completed.
+2025-02-11 00:00:02,597 - INFO - package: mysql.connector.plugins
+2025-02-11 00:00:02,599 - INFO - plugin_name: caching_sha2_password
+2025-02-11 00:00:02,603 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-11 00:00:04,155 - INFO - Article already exists: Which American Nation Is the First to Exit China’s BRI? Check Here
+2025-02-11 00:00:04,974 - INFO - Article already exists: New Federal Reserve Rates and Their Market Impact – Check Details Here
+2025-02-11 00:00:05,544 - INFO - Article already exists: RBI Slashes Repo Rate: Big Relief for Borrowers?
+2025-02-11 00:00:05,756 - INFO - Article already exists: Trump Unveils Stargate Alliance: $500 Billion for AI Development in the US
+2025-02-11 00:00:06,226 - INFO - Article already exists: Union Budget 2025: Key Highlights on Udan Scheme, Tax Changes, and Nuclear Energy
+2025-02-11 00:00:06,394 - INFO - Article already exists: Nigeria Joins Hands with BRICS as Partner Nation
+2025-02-11 00:00:06,934 - INFO - Article already exists: Economic Survey 2025 presented by FM Nirmala Sitharaman; Check Key Details Here
+2025-02-11 00:00:07,108 - INFO - Article already exists: Trump Plans to Rename Gulf of Mexico; Here’s Why
+2025-02-11 00:00:07,688 - INFO - Article already exists: India's Q2 Growth Report: GDP Slips to 5.4%, lowest in 18 Months; Check the Key Highlights Here!
+2025-02-11 00:00:07,822 - INFO - Article already exists: SpaceX Starship Mission Faces Major Failure; Elon Musk Explains Why
+2025-02-11 00:00:08,463 - INFO - Article already exists: Why RBI is Moving its Gold Back from England: Key Reasons Explained
+2025-02-11 00:00:08,571 - INFO - Article already exists: China's Population Drops for Third Consecutive Year, Despite More Births
+2025-02-11 00:00:09,153 - INFO - Article already exists: RBI Monetary Policy Meeting 2024: Will Your EMIs Increase After This Decision?
+2025-02-11 00:00:09,317 - INFO - Article already exists: S. Jaishankar to Attend Trump’s Swearing-In: Why Isn’t PM Modi Attending?
+2025-02-11 00:00:09,859 - INFO - Article already exists: World Cup 2023: India Missed the Trophy, But Scored Big in Economic Gains – Here's How
+2025-02-11 00:00:10,052 - INFO - Article already exists: Not Pakistan, this Muslim-dominated Sount-East Country Joins BRICS
+2025-02-11 00:00:10,533 - INFO - Article already exists: Indian Economy: World Bank Ups India's FY25 Growth Forecast to 7%
+2025-02-11 00:00:10,725 - INFO - Article already exists: Meet Inah Canabarro: The 117-Year-Old Nun and World's Oldest Person; Check the Secrets to Her Long Life
+2025-02-11 00:00:11,245 - INFO - Article already exists: ITR 2024: Easily Check Your ITR Refund Status with PAN Card on Mobile
+2025-02-11 00:00:11,995 - INFO - Article already exists: File Your Income Tax Return (ITR) 2024 On WhatsApp in Simple Steps
+2025-02-11 00:00:12,123 - INFO - Article already exists: Hindenburg Report: Top 6 Allegations on SEBI Chaiperson Madhabi Puri Buch
+2025-02-11 00:00:12,913 - INFO - Article already exists: What is Bharat New Car Assessment Programme (Bharat NCAP)?
+2025-02-11 00:00:13,618 - INFO - Article already exists: ITC Stocks Accomplished Strong Record, 11th Indian Firm with Over 5 Trillion Market Capitalisation
+2025-02-11 00:00:14,347 - INFO - Article already exists: Toyota Kirloskar Motor Announced ‘Wheels on Web’, First-ever B2C Platform for Bangalore Customers
+2025-02-11 00:00:15,062 - INFO - Article already exists: Tech Giant Apple Opening Two Outlets in India Soon, To Unveil on April 18, 20
+2025-02-11 00:00:15,776 - INFO - Article already exists: America’s largest controller First Citizens Bank takes over Assets of the afflicted Silicon Valley Bank
+2025-02-11 00:00:16,484 - INFO - Article already exists: Axis Bank Supersedes Citibank India’s Retail Business, Deal of Rs 11,603 Crores
+2025-02-11 00:00:17,257 - INFO - Article already exists: India & Singapore Jointly Launches UPI PayNow Linkage, Incites Cross-Border Transactions
+2025-02-11 00:00:18,052 - INFO - Article already exists: Joe Biden Calls Air India-Boeing Deal a Historic Event, Will Grant 1 Million Jobs in US
+2025-02-11 00:00:18,801 - INFO - Article already exists: Adani Group wins Mumbai’s Dharavi Redevelopment Project with Rs. 5,069 crore bid
+2025-02-12 00:00:02,324 - INFO - package: mysql.connector.plugins
+2025-02-12 00:00:02,324 - INFO - plugin_name: caching_sha2_password
+2025-02-12 00:00:02,325 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-12 00:00:03,821 - INFO - Article already exists: Which American Nation Is the First to Exit China’s BRI? Check Here
+2025-02-12 00:00:04,563 - INFO - Article already exists: New Federal Reserve Rates and Their Market Impact – Check Details Here
+2025-02-12 00:00:05,330 - INFO - Article already exists: Trump Unveils Stargate Alliance: $500 Billion for AI Development in the US
+2025-02-12 00:00:05,503 - INFO - Article already exists: RBI Slashes Repo Rate: Big Relief for Borrowers?
+2025-02-12 00:00:06,152 - INFO - Article already exists: Nigeria Joins Hands with BRICS as Partner Nation
+2025-02-12 00:00:06,273 - INFO - Article already exists: Union Budget 2025: Key Highlights on Udan Scheme, Tax Changes, and Nuclear Energy
+2025-02-12 00:00:06,914 - INFO - Article already exists: Trump Plans to Rename Gulf of Mexico; Here’s Why
+2025-02-12 00:00:07,040 - INFO - Article already exists: Economic Survey 2025 presented by FM Nirmala Sitharaman; Check Key Details Here
+2025-02-12 00:00:07,688 - INFO - Article already exists: SpaceX Starship Mission Faces Major Failure; Elon Musk Explains Why
+2025-02-12 00:00:07,844 - INFO - Article already exists: India's Q2 Growth Report: GDP Slips to 5.4%, lowest in 18 Months; Check the Key Highlights Here!
+2025-02-12 00:00:08,488 - INFO - Article already exists: China's Population Drops for Third Consecutive Year, Despite More Births
+2025-02-12 00:00:08,630 - INFO - Article already exists: Why RBI is Moving its Gold Back from England: Key Reasons Explained
+2025-02-12 00:00:09,348 - INFO - Article already exists: S. Jaishankar to Attend Trump’s Swearing-In: Why Isn’t PM Modi Attending?
+2025-02-12 00:00:09,393 - INFO - Article already exists: RBI Monetary Policy Meeting 2024: Will Your EMIs Increase After This Decision?
+2025-02-12 00:00:10,130 - INFO - Article already exists: Not Pakistan, this Muslim-dominated Sount-East Country Joins BRICS
+2025-02-12 00:00:10,182 - INFO - Article already exists: World Cup 2023: India Missed the Trophy, But Scored Big in Economic Gains – Here's How
+2025-02-12 00:00:10,966 - INFO - Article already exists: Meet Inah Canabarro: The 117-Year-Old Nun and World's Oldest Person; Check the Secrets to Her Long Life
+2025-02-12 00:00:10,991 - INFO - Article already exists: Indian Economy: World Bank Ups India's FY25 Growth Forecast to 7%
+2025-02-12 00:00:11,788 - INFO - Article already exists: ITR 2024: Easily Check Your ITR Refund Status with PAN Card on Mobile
+2025-02-12 00:00:12,415 - INFO - Article already exists: Hindenburg Report: Top 6 Allegations on SEBI Chaiperson Madhabi Puri Buch
+2025-02-12 00:00:12,557 - INFO - Article already exists: File Your Income Tax Return (ITR) 2024 On WhatsApp in Simple Steps
+2025-02-12 00:00:13,197 - INFO - Article already exists: What is Bharat New Car Assessment Programme (Bharat NCAP)?
+2025-02-12 00:00:14,000 - INFO - Article already exists: ITC Stocks Accomplished Strong Record, 11th Indian Firm with Over 5 Trillion Market Capitalisation
+2025-02-12 00:00:14,724 - INFO - Article already exists: Toyota Kirloskar Motor Announced ‘Wheels on Web’, First-ever B2C Platform for Bangalore Customers
+2025-02-12 00:00:15,488 - INFO - Article already exists: Tech Giant Apple Opening Two Outlets in India Soon, To Unveil on April 18, 20
+2025-02-12 00:00:16,300 - INFO - Article already exists: America’s largest controller First Citizens Bank takes over Assets of the afflicted Silicon Valley Bank
+2025-02-12 00:00:17,103 - INFO - Article already exists: Axis Bank Supersedes Citibank India’s Retail Business, Deal of Rs 11,603 Crores
+2025-02-12 00:00:17,915 - INFO - Article already exists: India & Singapore Jointly Launches UPI PayNow Linkage, Incites Cross-Border Transactions
+2025-02-12 00:00:18,820 - INFO - Article already exists: Joe Biden Calls Air India-Boeing Deal a Historic Event, Will Grant 1 Million Jobs in US
+2025-02-12 00:00:19,611 - INFO - Article already exists: Adani Group wins Mumbai’s Dharavi Redevelopment Project with Rs. 5,069 crore bid
+2025-02-13 00:00:02,089 - INFO - package: mysql.connector.plugins
+2025-02-13 00:00:02,090 - INFO - plugin_name: caching_sha2_password
+2025-02-13 00:00:02,090 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-13 00:00:05,229 - INFO - Article already exists: RBI Slashes Repo Rate: Big Relief for Borrowers?
+2025-02-13 00:00:05,243 - INFO - Article already exists: Hindenburg Report: Top 6 Allegations on SEBI Chaiperson Madhabi Puri Buch
+2025-02-13 00:00:06,106 - INFO - Article already exists: Union Budget 2025: Key Highlights on Udan Scheme, Tax Changes, and Nuclear Energy
+2025-02-13 00:00:06,153 - INFO - Article already exists: What is Bharat New Car Assessment Programme (Bharat NCAP)?
+2025-02-13 00:00:06,989 - INFO - Article already exists: Economic Survey 2025 presented by FM Nirmala Sitharaman; Check Key Details Here
+2025-02-13 00:00:07,033 - INFO - Article already exists: ITC Stocks Accomplished Strong Record, 11th Indian Firm with Over 5 Trillion Market Capitalisation
+2025-02-13 00:00:07,857 - INFO - Article already exists: India's Q2 Growth Report: GDP Slips to 5.4%, lowest in 18 Months; Check the Key Highlights Here!
+2025-02-13 00:00:07,866 - INFO - Article already exists: Toyota Kirloskar Motor Announced ‘Wheels on Web’, First-ever B2C Platform for Bangalore Customers
+2025-02-13 00:00:08,735 - INFO - Article already exists: Why RBI is Moving its Gold Back from England: Key Reasons Explained
+2025-02-13 00:00:08,751 - INFO - Article already exists: Tech Giant Apple Opening Two Outlets in India Soon, To Unveil on April 18, 20
+2025-02-13 00:00:09,624 - INFO - Article already exists: RBI Monetary Policy Meeting 2024: Will Your EMIs Increase After This Decision?
+2025-02-13 00:00:09,634 - INFO - Article already exists: America’s largest controller First Citizens Bank takes over Assets of the afflicted Silicon Valley Bank
+2025-02-13 00:00:10,445 - INFO - Article already exists: World Cup 2023: India Missed the Trophy, But Scored Big in Economic Gains – Here's How
+2025-02-13 00:00:10,502 - INFO - Article already exists: Axis Bank Supersedes Citibank India’s Retail Business, Deal of Rs 11,603 Crores
+2025-02-13 00:00:11,391 - INFO - Article already exists: Indian Economy: World Bank Ups India's FY25 Growth Forecast to 7%
+2025-02-13 00:00:11,401 - INFO - Article already exists: India & Singapore Jointly Launches UPI PayNow Linkage, Incites Cross-Border Transactions
+2025-02-13 00:00:12,237 - INFO - Article already exists: ITR 2024: Easily Check Your ITR Refund Status with PAN Card on Mobile
+2025-02-13 00:00:12,241 - INFO - Article already exists: Joe Biden Calls Air India-Boeing Deal a Historic Event, Will Grant 1 Million Jobs in US
+2025-02-13 00:00:13,093 - INFO - Article already exists: File Your Income Tax Return (ITR) 2024 On WhatsApp in Simple Steps
+2025-02-13 00:00:13,148 - INFO - Article already exists: Adani Group wins Mumbai’s Dharavi Redevelopment Project with Rs. 5,069 crore bid

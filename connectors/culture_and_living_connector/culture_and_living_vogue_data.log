@@ -7,3 +7,34 @@
 2025-02-10 12:17:22,668 - INFO - Parsed HTML title: Culture & Living | Lifestyle | Homes & Spaces | Vogue India
 2025-02-10 12:17:22,671 - INFO - Found 20 articles on the page.
 2025-02-10 12:17:22,871 - INFO - Article already exists: The full moon on February 12 is asking you to stop accepting things that don’t please you
+2025-02-11 00:00:02,354 - INFO - package: mysql.connector.plugins
+2025-02-11 00:00:02,356 - INFO - plugin_name: caching_sha2_password
+2025-02-11 00:00:02,361 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-11 00:00:02,367 - INFO - Database 'temp' already exists.
+2025-02-11 00:00:02,369 - INFO - Switched to database 'temp'.
+2025-02-11 00:00:02,386 - INFO - Table 'culture_and_living_vogue' created or already exists.
+2025-02-11 00:00:07,277 - INFO - Parsed HTML title: Culture & Living | Lifestyle | Homes & Spaces | Vogue India
+2025-02-11 00:00:07,281 - INFO - Found 20 articles on the page.
+2025-02-11 00:00:07,412 - INFO - Article already exists: The full moon on February 12 is asking you to stop accepting things that don’t please you
+2025-02-12 00:00:02,257 - INFO - package: mysql.connector.plugins
+2025-02-12 00:00:02,258 - INFO - plugin_name: caching_sha2_password
+2025-02-12 00:00:02,262 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-12 00:00:02,272 - INFO - Database 'temp' already exists.
+2025-02-12 00:00:02,272 - INFO - Switched to database 'temp'.
+2025-02-12 00:00:02,284 - INFO - Table 'culture_and_living_vogue' created or already exists.
+2025-02-12 00:00:07,121 - INFO - Parsed HTML title: Culture & Living | Lifestyle | Homes & Spaces | Vogue India
+2025-02-12 00:00:07,123 - INFO - Found 20 articles on the page.
+2025-02-12 00:00:07,447 - INFO - Inserted article: Is breaking up over text ever okay?
+2025-02-12 00:00:07,590 - INFO - Article already exists: 39 best love songs from Bollywood that sum upeverythingyou’re feeling
+2025-02-13 00:00:02,061 - INFO - package: mysql.connector.plugins
+2025-02-13 00:00:02,061 - INFO - plugin_name: caching_sha2_password
+2025-02-13 00:00:02,066 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-13 00:00:02,074 - INFO - Database 'temp' already exists.
+2025-02-13 00:00:02,075 - INFO - Switched to database 'temp'.
+2025-02-13 00:00:02,080 - INFO - Table 'culture_and_living_vogue' created or already exists.
+2025-02-13 00:00:05,115 - INFO - Parsed HTML title: Culture & Living | Lifestyle | Homes & Spaces | Vogue India
+2025-02-13 00:00:05,118 - INFO - Found 20 articles on the page.
+2025-02-13 00:00:06,425 - INFO - Inserted article: I attended a fascinating festival in Bhutan and understood why it is one of the happiest countries in the world
+2025-02-13 00:00:08,175 - INFO - Inserted article: The most cunning zodiac signs ranked
+2025-02-13 00:00:08,406 - INFO - Inserted article: 8 solo date ideas that can help you actually enjoy doing things alone
+2025-02-13 00:00:08,537 - INFO - Article already exists: Is breaking up over text ever okay?

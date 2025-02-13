@@ -7,3 +7,33 @@
 2025-02-10 12:30:37,416 - INFO - Parsed HTML title: Beauty | Beauty Tips, trends & news | Vogue India
 2025-02-10 12:30:37,418 - INFO - Found 21 articles on the page.
 2025-02-10 12:30:37,871 - INFO - Article already exists: Janhvi Kapoor gives metallic tones a fresh, soft-glam update with her ‘silver flush’ beauty look
+2025-02-11 00:00:02,403 - INFO - package: mysql.connector.plugins
+2025-02-11 00:00:02,405 - INFO - plugin_name: caching_sha2_password
+2025-02-11 00:00:02,409 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-11 00:00:02,420 - INFO - Database 'temp' already exists.
+2025-02-11 00:00:02,421 - INFO - Switched to database 'temp'.
+2025-02-11 00:00:02,431 - INFO - Table 'beauty_vogue' created or already exists.
+2025-02-11 00:00:04,230 - INFO - Parsed HTML title: Beauty | Beauty Tips, trends & news | Vogue India
+2025-02-11 00:00:04,233 - INFO - Found 21 articles on the page.
+2025-02-11 00:00:04,360 - INFO - Article already exists: Janhvi Kapoor gives metallic tones a fresh, soft-glam update with her ‘silver flush’ beauty look
+2025-02-12 00:00:02,325 - INFO - package: mysql.connector.plugins
+2025-02-12 00:00:02,325 - INFO - plugin_name: caching_sha2_password
+2025-02-12 00:00:02,326 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-12 00:00:02,333 - INFO - Database 'temp' already exists.
+2025-02-12 00:00:02,336 - INFO - Switched to database 'temp'.
+2025-02-12 00:00:02,345 - INFO - Table 'beauty_vogue' created or already exists.
+2025-02-12 00:00:05,171 - INFO - Parsed HTML title: Beauty | Beauty Tips, trends & news | Vogue India
+2025-02-12 00:00:05,174 - INFO - Found 21 articles on the page.
+2025-02-12 00:00:05,878 - INFO - Inserted article: The 11 hair colour trends that will dominate 2025
+2025-02-12 00:00:06,008 - INFO - Article already exists: Janhvi Kapoor gives metallic tones a fresh, soft-glam update with her ‘silver flush’ beauty look
+2025-02-13 00:00:02,048 - INFO - package: mysql.connector.plugins
+2025-02-13 00:00:02,048 - INFO - plugin_name: caching_sha2_password
+2025-02-13 00:00:02,051 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-02-13 00:00:02,065 - INFO - Database 'temp' already exists.
+2025-02-13 00:00:02,065 - INFO - Switched to database 'temp'.
+2025-02-13 00:00:02,076 - INFO - Table 'beauty_vogue' created or already exists.
+2025-02-13 00:00:06,913 - INFO - Parsed HTML title: Beauty | Beauty Tips, trends & news | Vogue India
+2025-02-13 00:00:06,916 - INFO - Found 21 articles on the page.
+2025-02-13 00:00:07,096 - INFO - Inserted article: Janhvi Kapoor's sunkissed glam was complete with a micro bindi
+2025-02-13 00:00:07,306 - INFO - Inserted article: Bloated? Try adding milk to your green tea
+2025-02-13 00:00:07,499 - INFO - Article already exists: The 11 hair colour trends that will dominate 2025
