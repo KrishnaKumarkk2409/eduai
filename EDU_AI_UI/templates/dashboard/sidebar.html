@@ -1,0 +1,54 @@
+<!-- Sidebar -->
+<aside class="sidebar">
+  <div class="logo">Edu.<span class="highlight">ai</span></div>
+  <nav>
+    <ul>
+      <!-- Home Link -->
+      <li class="{{ 'active' if active_page == 'home' else '' }}">
+        <a href="{{ url_for('home') }}" class="nav-link" id="home-link">
+          <img src="static/images/home.svg" alt="Home" class="nav-icon" />
+          Home
+        </a>
+      </li>
+
+      <!-- AI Link -->
+      <li class="{{ 'active' if active_page == 'chat' else '' }}">
+        <a href="{{ url_for('chat') }}" class="nav-link" id="ai-link">
+          <img src="static/images/aib.svg" alt="Your_AI" class="nav-icon" />
+          Your AI
+        </a>
+      </li>
+
+      <!-- Learning Link -->
+      <li class="{{ 'active' if active_page == 'learning' else '' }}">
+        <a href="{{ url_for('learning') }}" class="nav-link" id="learning-link">
+          <img src="static/images/learning.svg" alt="My_learning" class="nav-icon" />
+          My Learning
+        </a>
+      </li>
+
+      <!-- Profile Link -->
+      <li class="{{ 'active' if active_page == 'profile' else '' }}">
+        <a href="{{ url_for('profile') }}" class="nav-link" id="profile-link">
+          <img src="static/images/profile.svg" alt="Profile" class="nav-icon" />
+          Profile
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div class="bottom-section">
+    <div class="theme-toggle">
+      <span>Light</span>
+      <label class="switch">
+        <input type="checkbox" />
+        <span class="slider"></span>
+      </label>
+      <span>Dark</span>
+    </div>
+    <div class="blue-line-bar"></div>
+    <div class="user-profile">
+      <img src="static/images/user.svg" alt="User" />
+      <span>Harsh Mankotia</span>
+    </div>
+  </div>
+</aside>

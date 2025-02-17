@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Edu.ai - General Knowledge</title>
+  <!-- Include all CSS files -->
+  <link rel="stylesheet" href="static/css/basic.css" />
+  <link rel="stylesheet" href="static/css/sidebar.css" />
+  <link rel="stylesheet" href="static/css/details.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="container">
+    <!-- Include Sidebar -->
+    {% include 'dashboard/sidebar.html' %}
+
+    <!-- Main content section for the article details -->
+    <main class="main-content">
+        <div class="breadcrumb">
+            <span>General Knowledge</span>
+            <span>/</span>
+            <span id="breadcrumb-article-title"></span> <!-- This will hold the article title -->
+        </div>
+
+        <div class="article-container">
+            <img id="article-image" alt="Image Loading....." class="article-image">
+            <div class="article-content">
+                <h1 id="article-title">Loading...</h1>
+                <div class="article-date" id="article-date"></div>
+                <div class="article-text" id="article-content">
+                    <!-- Content will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </main>
+    <aside class="right-sidebar">
+            <div class="search-container">
+                <input type="search" placeholder="Search" class="search-input">
+            </div>
+
+            <div class="categories">
+                <h2>Categories</h2>
+                <div class="category-item">
+                    <span>Careers & Education</span>
+                    <span class="dropdown-icon">▼</span>
+                </div>
+                <div class="category-item">
+                    <span>Business</span>
+                    <span class="dropdown-icon">▼</span>
+                </div>
+                <div class="category-item">
+                    <span>Events</span>
+                    <span class="dropdown-icon">▼</span>
+                </div>
+            </div>
+        </aside>
+    </div>
+  </div>
+
+  <script src="static/js/details.js"></script>
+</body>
+</html>
